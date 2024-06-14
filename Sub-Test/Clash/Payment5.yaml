@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2024-06-11 21:36:52
+# 创建时间：2024-06-14 09:22:04
 # 使用模版：V2RaySE 默认模版
-# 节点数量：57
+# 节点数量：10
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -85,438 +85,109 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"🇰🇷 |KR|韩国|@wxgqlfx|20","type":"trojan","server":"61.247.83.116","port":39308,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|51","type":"trojan","server":"43.153.80.208","port":443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|180","type":"trojan","server":"8.219.98.13","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|181","type":"trojan","server":"8.219.174.142","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|187","type":"trojan","server":"8.219.11.158","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|188","type":"trojan","server":"47.236.202.91","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|190","type":"trojan","server":"47.236.158.158","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|194","type":"trojan","server":"47.236.254.120","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|196","type":"trojan","server":"47.236.117.48","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|197","type":"trojan","server":"47.236.93.176","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|198","type":"trojan","server":"8.219.194.170","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|199","type":"trojan","server":"8.222.156.242","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|201","type":"trojan","server":"47.237.8.82","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|203","type":"trojan","server":"8.219.177.205","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|204","type":"trojan","server":"8.222.134.170","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|205","type":"trojan","server":"8.219.49.65","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|206","type":"trojan","server":"47.236.102.102","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|207","type":"trojan","server":"47.236.189.92","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|208","type":"trojan","server":"8.222.191.138","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|209","type":"trojan","server":"8.219.111.175","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|210","type":"trojan","server":"8.219.248.47","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|212","type":"trojan","server":"8.219.104.37","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|213","type":"trojan","server":"8.222.181.117","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|215","type":"trojan","server":"47.236.180.51","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|216","type":"trojan","server":"8.219.139.13","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|217","type":"trojan","server":"8.219.161.129","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|218","type":"trojan","server":"8.219.0.162","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|220","type":"trojan","server":"8.219.114.201","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|221","type":"trojan","server":"47.237.84.173","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|222","type":"trojan","server":"8.222.179.231","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|223","type":"trojan","server":"47.236.17.193","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|224","type":"trojan","server":"8.219.0.48","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|225","type":"trojan","server":"8.219.122.55","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|226","type":"trojan","server":"8.219.4.122","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|227","type":"trojan","server":"8.222.193.65","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|229","type":"trojan","server":"47.236.167.231","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|230","type":"trojan","server":"8.222.165.117","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|231","type":"trojan","server":"8.219.110.81","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|232","type":"trojan","server":"47.236.146.249","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|235","type":"trojan","server":"47.236.170.225","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|238","type":"trojan","server":"8.219.142.191","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|241","type":"trojan","server":"8.222.183.242","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|243","type":"trojan","server":"8.222.169.222","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|246","type":"trojan","server":"47.236.164.215","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|247","type":"trojan","server":"8.219.229.190","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|250","type":"trojan","server":"47.236.232.148","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|258","type":"trojan","server":"47.236.253.41","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|262","type":"trojan","server":"8.222.208.38","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|263","type":"trojan","server":"8.219.117.198","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|269","type":"trojan","server":"8.219.6.150","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|271","type":"trojan","server":"47.236.180.24","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|274","type":"trojan","server":"zdy010.kpcloud.eu.org","port":443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸 |US|美国|@wxgqlfx|291","type":"trojan","server":"47.236.174.206","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|297","type":"trojan","server":"8.219.199.220","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|302","type":"trojan","server":"8.219.191.40","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|304","type":"trojan","server":"47.245.84.124","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇸🇬 |SG|新加坡|@wxgqlfx|307","type":"trojan","server":"8.222.164.209","port":8443,"udp":true,"password":"NISHIKUITAN222","sni":"t010.ylks.link","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇦🇱_AL_阿尔巴尼亚","type":"ss","server":"109.104.152.186","port":11223,"password":"7/bb9x3TJQ4Y5SRA/Al3OdwxIk4uf3Jg8N9wDQg+Uto=","cipher":"2022-blake3-chacha20-poly1305"}
+  - {"name":"🇵🇱_PL_波兰_1","type":"ss","server":"51.77.53.200","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"russia.com","port":8080,"cipher":"auto","uuid":"4b05abf5-c68d-4ffc-915f-add2f3786dca","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/api/v3/download.getFile","headers":{"host":"sssub.v2.001.ssrsub.com"}}}
+  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_1","type":"vmess","server":"104.26.14.85","port":2095,"cipher":"auto","uuid":"3e540874-0730-452a-8b2e-e719b5d34470","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za","headers":{"host":"Yakuza.unique69.com"}}}
+  - {"name":"🇵🇱_PL_波兰_2","type":"ss","server":"51.77.53.200","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_2","type":"vmess","server":"zula.ir","port":2095,"cipher":"auto","uuid":"3e540874-0730-452a-8b2e-e719b5d34470","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za","headers":{"host":"Yakuza.unique69.com"}}}
+  - {"name":"🇺🇸_US_美国->🇩🇪_DE_德国_3","type":"trojan","server":"104.21.34.77","port":2096,"udp":true,"password":"A9l6_eMgylRZu0YiSqunsQ","sni":"usa.iwontletgo.cloud","skip-cert-verify":false,"network":"grpc","grpc-opts":{"grpc-service-name":"trojan"}}
+  - {"name":"🇵🇱_PL_波兰_3","type":"ss","server":"51.77.53.200","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+  - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"kz-v2ray.ipracevpn.com","port":2083,"cipher":"auto","uuid":"b32504f9-c51c-4aa0-b1ff-1316ce82033b","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_3","type":"vmess","server":"Tgju.org","port":2095,"cipher":"auto","uuid":"3e540874-0730-452a-8b2e-e719b5d34470","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za","headers":{"host":"Yakuza.unique69.com"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -539,63 +210,16 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇰🇷 |KR|韩国|@wxgqlfx|20
-      - 🇺🇸 |US|美国|@wxgqlfx|51
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|180
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|181
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|187
-      - 🇺🇸 |US|美国|@wxgqlfx|188
-      - 🇺🇸 |US|美国|@wxgqlfx|190
-      - 🇺🇸 |US|美国|@wxgqlfx|194
-      - 🇺🇸 |US|美国|@wxgqlfx|196
-      - 🇺🇸 |US|美国|@wxgqlfx|197
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|198
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|199
-      - 🇺🇸 |US|美国|@wxgqlfx|201
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|203
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|204
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|205
-      - 🇺🇸 |US|美国|@wxgqlfx|206
-      - 🇺🇸 |US|美国|@wxgqlfx|207
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|208
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|209
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|210
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|212
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|213
-      - 🇺🇸 |US|美国|@wxgqlfx|215
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|216
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|217
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|218
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|220
-      - 🇺🇸 |US|美国|@wxgqlfx|221
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|222
-      - 🇺🇸 |US|美国|@wxgqlfx|223
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|224
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|225
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|226
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|227
-      - 🇺🇸 |US|美国|@wxgqlfx|229
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|230
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|231
-      - 🇺🇸 |US|美国|@wxgqlfx|232
-      - 🇺🇸 |US|美国|@wxgqlfx|235
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|238
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|241
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|243
-      - 🇺🇸 |US|美国|@wxgqlfx|246
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|247
-      - 🇺🇸 |US|美国|@wxgqlfx|250
-      - 🇺🇸 |US|美国|@wxgqlfx|258
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|262
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|263
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|269
-      - 🇺🇸 |US|美国|@wxgqlfx|271
-      - 🇺🇸 |US|美国|@wxgqlfx|274
-      - 🇺🇸 |US|美国|@wxgqlfx|291
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|297
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|302
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|304
-      - 🇸🇬 |SG|新加坡|@wxgqlfx|307
+      - 🇦🇱_AL_阿尔巴尼亚
+      - 🇵🇱_PL_波兰_1
+      - 🇺🇸_US_美国_1
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_1
+      - 🇵🇱_PL_波兰_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_2
+      - 🇺🇸_US_美国->🇩🇪_DE_德国_3
+      - 🇵🇱_PL_波兰_3
+      - 🇺🇸_US_美国_2
+      - 🇺🇸_US_美国_3
 
 rules:
 # 本地/局域网地址
